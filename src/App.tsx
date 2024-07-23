@@ -23,7 +23,7 @@ const App: React.FC = () => {
       setCropData(aggregateCropData(fetchedData));
     };
     loadData();
-  }, []);
+  }, [data]);
 
   return (
     <MantineProvider>

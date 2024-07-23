@@ -56,7 +56,7 @@ Follow the [official Tailwind CSS installation guide](https://tailwindcss.com/do
 ```
 npm run dev
 ```
-The application will start, and you can view it in your browser at `http://localhost:3000`.
+The application will start, and you can view it in your browser at `http://localhost:5173/`.
 
 Project Structure
 
