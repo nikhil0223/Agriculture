@@ -40,7 +40,7 @@ Ensure you have Node.js and npm installed on your machine. You can download and 
 ## Clone the Repository
 
 ### git clone 
-Link:- https://github.com/your-username/agriculture-data-analytics.git
+Link:- [https://github.com/your-username/agriculture-data-analytics.git](https://github.com/nikhil0223/Agriculture.git)
 
 Code cd agriculture-data-analytics
 
