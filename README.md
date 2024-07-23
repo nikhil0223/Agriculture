@@ -27,15 +27,9 @@ React component library for UI components.
 ![App Screenshot](./images/1.png)
 ![App Screenshot](./images/2.png)
 ![App Screenshot](./images/3.png)
-![App Screenshot](./images/1.png)
-![App Screenshot](./images/2.png)
-![App Screenshot](./images/3.png)
-<img src="./images/3.png" alt="First Image" width="300" height="200">
-<img src="https://via.placeholder.com/300x200" alt="Second Image" width="300" height="200">
-<img src="https://via.placeholder.com/300x200" alt="Third Image" width="300" height="200">
-<img src="./images/3.png" alt="First Image" width="300" height="200">
-<img src="https://via.placeholder.com/300x200" alt="Second Image" width="300" height="200">
-<img src="https://via.placeholder.com/300x200" alt="Third Image" width="300" height="200">
+![App Screenshot](./images/4.png)
+![App Screenshot](./images/5.png)
+![App Screenshot](./images/6.png)
 
 
 ## Setup Instructions
